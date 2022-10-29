@@ -1,0 +1,65 @@
+﻿body
+{
+	font-family: Sans Serif;
+	background: antiquewhite;
+	
+}
+#header{
+	background-image:url("R.jpg");
+}
+#header h1{
+	color: #efe97f;
+	font-size: 50px;
+	text-align: center;
+	padding: 205px;
+	margin: 0px;
+}
+nav{
+	background-color:grey;
+}
+nav ul{
+	list-style: none;
+	padding: 10px;
+	text-align: center;
+	margin: 0px;
+}
+nav ul li{
+display:inline-block;
+}
+nav ul li a{
+	color: black;
+	font-size: 18ppx;
+	text-decoration: none;
+	padding: 8px 10px;
+	display: inline-block;
+}
+nav ul li a:hover{
+	background-color: white;
+	color: black;
+}
+aside#center{
+	background-color:red;
+	width:100%;
+	height:250px;
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+
+#final{
+	background-color: grey;
+	position: static;
+	width: 100%;
+	height: 50px;
+	bottom: 0;
+	font-style: Times New Roman;
+	margin: 0px; 
+    padding: 0px;
+	display: inline;
+    margin: auto;
+	 float:inline-start;
+	 background:#e8e8e8; 
+    text-align:center;
+}
+
+ 
